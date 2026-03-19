@@ -1,6 +1,6 @@
 ## 基于 LangChain 的多模态个人知识库助手
 
-The code is coming soon.
+streamlit run main.py
 
 ### 介绍
 
